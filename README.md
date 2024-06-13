@@ -1,0 +1,26 @@
+- **Degree:** Master of Science (MSc)
+- **Subjects:**
+	- computer science (primary)
+	- physics (secondary)
+- **Job:** research associate
+- **Personality:** altruist, INFJ
+- **Interests:**
+	- science and technology in general, in particular ...
+		- programming
+		- Linux / FOSS / open source
+		- high-performance computing (HPC)
+		- fluid dynamics / aerodynamics
+		- data science
+		- graphics / visualization
+		- collaborative mapping / OpenStreetMaps (OSM) / geographic information systems (GIS)
+		- real-time systems
+		- signal processing
+		- audio engineering
+		- electronics
+	- music / concerts
+	- electric guitar
+	- endurance sports
+	- travelling
+	- exploration / lost places
+	- altruism / not-for-profit
+	- sustainability
