@@ -2,7 +2,7 @@
 - **Subjects:**
 	- computer science (primary)
 	- physics (secondary)
-- **Job:** research associate
+- **Job:** research associate / scientist
 - **Personality:** altruist, INFJ
 - **Interests:**
 	- science and technology in general, in particular ...
